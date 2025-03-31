@@ -26,7 +26,7 @@ This project implements a **Hybrid Attention Network (HAN)** for **stock market 
 │   ├── spl.py                   # Self-Paced Learning implementation
 │   ├── train.py                 # Model training script
 │   ├── predict.py               # Model inference script
-│
+│----app.py
 └── README.md                    # Project documentation
 ```
 
