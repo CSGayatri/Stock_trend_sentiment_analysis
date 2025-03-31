@@ -33,8 +33,8 @@ This project implements a **Hybrid Attention Network (HAN)** for **stock market 
 ## Installation & Setup
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo.git
-   cd your-repo
+   git clone https://github.com/CSGayatri/Stock_trend_sentiment_analysis
+   cd Stock_trend_sentiment_analysis
    ```
 
 2. **Install Dependencies**:
